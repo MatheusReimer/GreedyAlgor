@@ -1,0 +1,14 @@
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\bin\Debug\net8.0\ApproxAlgorithm.exe
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\bin\Debug\net8.0\ApproxAlgorithm.deps.json
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\bin\Debug\net8.0\ApproxAlgorithm.runtimeconfig.json
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\bin\Debug\net8.0\ApproxAlgorithm.dll
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\bin\Debug\net8.0\ApproxAlgorithm.pdb
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ApproxAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ApproxAlgorithm.AssemblyInfoInputs.cache
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ApproxAlgorithm.AssemblyInfo.cs
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ApproxAlgorithm.csproj.CoreCompileInputs.cache
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ApproxAlgorithm.dll
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\refint\ApproxAlgorithm.dll
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ApproxAlgorithm.pdb
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ApproxAlgorithm.genruntimeconfig.cache
+c:\Users\Bonhart\source\repos\AlgorithmAnalysis\ApproxAlgorithm\obj\Debug\net8.0\ref\ApproxAlgorithm.dll
